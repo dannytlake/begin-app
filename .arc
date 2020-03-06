@@ -1,5 +1,5 @@
 @app
-begin-app
+local-n4w
 
 @static
 folder build
